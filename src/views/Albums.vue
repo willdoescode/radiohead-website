@@ -4,7 +4,7 @@
   </div>
 </template>
 
-<style lang="sass">
+<style lang="sass" scoped>
 
 </style>
 
