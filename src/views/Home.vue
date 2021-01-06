@@ -11,9 +11,13 @@
     <figure class="members">
       <img class="them" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3w8dlo2orf8y3crtc22sslbh-wpengine.netdna-ssl.com%2Fwp-content%2Fuploads%2F2020%2F02%2FWebp.net-resizeimage-18.jpg&f=1&nofb=1" alt="radiohead">
     </figure>
-    <p class="names"><a href="https://en.wikipedia.org/wiki/Ed_O%27Brien">Ed O'Brien</a>, <a href="https://en.wikipedia.org/wiki/Jonny_Greenwood">Jonny Greenwood</a>,
-      <a href="https://en.wikipedia.org/wiki/Thom_Yorke">Thom Yorke</a>, <a href="https://en.wikipedia.org/wiki/Philip_Selway">Philip Selway</a>,
-      <a href="https://en.wikipedia.org/wiki/Colin_Greenwood">Colin Greenwood</a></p>
+    <p class="names">
+      <a href="https://en.wikipedia.org/wiki/Colin_Greenwood">Colin Greenwood</a>,
+      <a href="https://en.wikipedia.org/wiki/Jonny_Greenwood">Jonny Greenwood</a>,
+      <a href="https://en.wikipedia.org/wiki/Thom_Yorke">Thom Yorke</a>,
+      <a href="https://en.wikipedia.org/wiki/Philip_Selway">Philip Selway</a>,
+      <a href="https://en.wikipedia.org/wiki/Ed_O%27Brien">Ed O'Brien</a>
+    </p>
   </div>
 </template>
 

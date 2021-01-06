@@ -48,8 +48,9 @@
     a
       color: #D3D3D3
       font-style: italic
-    a:hover
-      color: #B60F32
+
+      &:hover
+       color: #B60F32
 
 #nav
   position: absolute
@@ -63,10 +64,11 @@
     font-weight: bold
     color: #D3D3D3
 
+    &:hover
+      color: #B60F32
+
     &.router-link-exact-active
       color: #B60F32
-  a:hover
-    color: #B60F32
 
 </style>
 
