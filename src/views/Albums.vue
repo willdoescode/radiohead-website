@@ -144,7 +144,7 @@
     max-width: 30vw
     max-height: 25vh
     overflow: scroll
-    margin-top: 10vh
+    margin-top: 2em
     text-align: right
 
 .kidaabout
